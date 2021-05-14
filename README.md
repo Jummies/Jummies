@@ -1,7 +1,6 @@
 ### Hello World, I'm Jummy 👋 AKA Jung Park 
 
-<!--
-**Jummies/Jummies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Software Engineer with a diverse work background in social work, graphic design, app developing, and contracting. Open-minded, quick to learn, and adept problem solver.
 I'm currently seeking a career as a full-stack software developer.
